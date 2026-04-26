@@ -303,6 +303,15 @@ body.dark .footer {
     transform: translateY(0);
   }
 }
+.tag.alert {
+  background: #fff3cd;
+  color: #b45309;
+}
+
+.tag.alert.off {
+  background: #e2e8f0;
+  color: #475569;
+}
 
 /* mobile */
 @media (max-width: 600px) {
