@@ -11,7 +11,6 @@ const macros = [
 /e 14초 경과 <se.1> <wait.2>
 /e 16초 경과 <se.1> <wait.2>
 /e 18초 경과 <se.1> <wait.7>
-
 /e 25초 <se.1>`
   },
   {
